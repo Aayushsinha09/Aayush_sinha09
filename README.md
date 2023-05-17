@@ -1,3 +1,6 @@
+# profile
+ <h1 align="center">Hi<img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Aayush Sinha</h1
+
 # 💫 About Me:
  I’m currently learning  python 
 
