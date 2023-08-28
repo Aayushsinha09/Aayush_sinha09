@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://github.com/annamalaiprabu/annamalaiprabu/blob/main/gifs/gallery.gif"/></p>
+<p align="center"><img src = "https://github.com/aayush sinha/aayush sinha/blob/main/gifs/gallery.gif"/></p>
 <h1 align="center">Heyy there 👋, I'm Aayush</h1>
 <h3 align="center">An enthusiastic learner from Delhi, India</h3>
 
