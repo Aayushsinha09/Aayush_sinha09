@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaiprabu&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaiprabu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AnnamalaiPrabu9" target="blank"><img src="https://img.shields.io/twitter/follow/AnnamalaiPrabu9?logo=twitter&style=for-the-badge" alt="AnnamalaiPrabu9" /></a> </p>
+https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/
 
 
 - 🌱 I’m currently *learning Python*
