@@ -2,9 +2,9 @@
 <h1 align="center">Heyy there 👋, I'm Aayush</h1>
 <h3 align="center">An enthusiastic learner from Delhi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaiprabu&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaiprabu" /> </p>
 
-https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/
+
+<a hrefhttps://www.linkedin.com/in/aayush-sinha-
 
 
 - 🌱 I’m currently *learning Python*
