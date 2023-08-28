@@ -11,14 +11,6 @@
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayush_sinha_09?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/)
 
-# 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-<h1 align="center">Hi<img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Rounak Raj Singh</h1>
-<h3 align="center">A open learner and passionate developer from India  <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
-
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Enthusiast;Front-End+Developer+)](https://git.io/typing-svg)
-# 💫 About Me:
-🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with back-end and web3.0<br>🌱 I’m currently learning Js, python <br>
 
 
 ## 🌐 Socials:
