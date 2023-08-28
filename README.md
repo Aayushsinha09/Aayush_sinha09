@@ -4,7 +4,7 @@
 
 
 
-<a hrefhttps://www.linkedin.com/in/aayush-sinha-
+<a href=https://www.linkedin.com/in/aayush-sinha-
 
 
 - 🌱 I’m currently *learning Python*
