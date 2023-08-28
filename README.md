@@ -1,6 +1,6 @@
 <p align="center"><img src = "https://github.com/annamalaiprabu/annamalaiprabu/blob/main/gifs/gallery.gif"/></p>
-<h1 align="center">Heyy there 👋, I'm Annamalai</h1>
-<h3 align="center">An enthusiastic Full Stack Web Developer from Bangalore, India</h3>
+<h1 align="center">Heyy there 👋, I'm Aayush</h1>
+<h3 align="center">An enthusiastic learner from Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaiprabu&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaiprabu" /> </p>
 
