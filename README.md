@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Enthusiast;)](https://git.io/typing-svg)
 
 # 💫 About Me:
- I’m currently learning  python <br>⚡ Fun fact I am a student
+ I’m currently learning  python <br>
 
 
 ## 🌐 Socials:
